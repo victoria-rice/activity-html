@@ -1,4 +1,0 @@
--activity-html
-=============
-
-HTML Avtivity
